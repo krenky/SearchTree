@@ -1,0 +1,16 @@
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\SearchTree.exe
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\SearchTree.deps.json
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\SearchTree.runtimeconfig.json
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\SearchTree.runtimeconfig.dev.json
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\SearchTree.dll
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\ref\SearchTree.dll
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\bin\Debug\net5.0\SearchTree.pdb
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.csprojAssemblyReference.cache
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.AssemblyInfoInputs.cache
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.AssemblyInfo.cs
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.dll
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\ref\SearchTree.dll
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.pdb
+C:\Users\Strange\Documents\GitHub\SearchTree\SearchTree\SearchTree\obj\Debug\net5.0\SearchTree.genruntimeconfig.cache
